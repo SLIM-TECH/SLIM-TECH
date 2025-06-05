@@ -1,50 +1,113 @@
-# CIBERSSH - Tech Stack
-### Fullstack Developer | CyberSec Enthusiast | Low-Level Coder
+# 💻 CIBERSSH - Tech Stack
+### 🚀 Fullstack Developer | 🔒 Cybersecurity Specialist | 🖥️ Low-Level Programmer
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7E3ACE&width=500&lines=C+Rust+Coder;Fullstack+Wizard;Linux+Enthusiast;Cybersec+Researcher)](https://git.io/typing-svg)
-
-<img src="https://i.imgur.com/3QZg7cG.gif" width="250" alt="Anime coding">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7E3ACE&width=500&lines=Hello+World!;C%2FC%2B%2B%2FRust+Developer;Fullstack+Engineer;Cybersecurity+Researcher)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🛠️ Tech Skills
+## 🛠️ Technical Skills
 
-### 🔮 Languages
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+### 🧑‍💻 Programming Languages
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)]
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![ASM](https://img.shields.io/badge/ASM-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)]
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <p>C</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <p>C++</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"/>
+  <p>Rust</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
+  <p>C#</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <p>Java</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <p>Python</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assemblyscript/assemblyscript-original.svg" width="50" height="50"/>
+  <p>ASM</p>
+</div>
 
 </div>
 
 ### 🌐 Fullstack
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <p>HTML5</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <p>CSS3</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <p>JavaScript</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <p>TypeScript</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <p>React</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50"/>
+  <p>.NET</p>
+</div>
 
 </div>
 
-### 🐧 DevOps & Systems
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+### ⚙️ DevOps & Systems
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+  <p>Bash</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <p>Linux</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <p>Docker</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
+  <p>Kubernetes</p>
+</div>
 
 </div>
 
@@ -54,31 +117,21 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLIM-TECH&show_icons=true&theme=dark&hide_border=true)](https://github.com/SLIM-TECH)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLIM-TECH&show_icons=true&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLIM-TECH&layout=compact&theme=dark&hide_border=true)](https://github.com/SLIM-TECH)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SLIM-TECH&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact Me
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
 
-<img src="https://i.imgur.com/5z8vW9x.png" width="300" alt="Contact me">
-
-</div>
-
-- ✉️ **Email:** ciber4018@gmail.com  
-- 💬 **Telegram:** [@CIBERSSH](https://t.me/CIBERSSH)  
-- 🐱 **GitHub:** [SLIM-TECH](https://github.com/SLIM-TECH)  
-- 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
-
----
-
-<div align="center">
-
-<img src="https://i.imgur.com/7QY7B3a.png" width="400" alt="Dev meme">
+✉️ **Email:** ciber4018@gmail.com  
+📱 **Telegram:** [@CIBERSSH](https://t.me/CIBERSSH)  
+💻 **GitHub:** [SLIM-TECH](https://github.com/SLIM-TECH)  
+🔗 **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)  
 
 </div>
