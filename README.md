@@ -71,6 +71,7 @@
 - ✉️ **Email:** ciber4018@gmail.com  
 - 💬 **Telegram:** [@CIBERSSH](https://t.me/CIBERSSH)  
 - 🐱 **GitHub:** [SLIM-TECH](https://github.com/SLIM-TECH)  
+- 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
 
 ---
 
