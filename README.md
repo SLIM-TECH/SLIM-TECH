@@ -1,4 +1,4 @@
-# Привет, я [Ваше Имя] 👋  
+# Привет, я [CIBERSSH - SLIM-TECH] 👋  
 ### 💻 Системный программист | Fullstack | DevOps | Cybersecurity  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/SLIM-TECH)
