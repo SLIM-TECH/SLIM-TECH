@@ -13,40 +13,36 @@
 
 ## 🛠️ 𝕿𝖊𝖈𝖍 𝕾𝖐𝖎𝖑𝖑𝖘
 
-### 🔮 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 & 𝕿𝖔𝖔𝖑𝖘
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+### 🔮 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
 
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&animate=spin)]
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&animate=bounce)]
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animate=pulse)]
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&animate=glow)]
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animate=shake)]
 
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/5z8vW9x.png" width="400" alt="Tech anime">
+### 🌐 𝕱𝖚𝖑𝖑𝖘𝖙𝖆𝖈𝖐
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]
+
 </div>
 
----
+### 🐧 𝕯𝖊𝖛𝖔𝖕𝖘 & 𝕾𝖞𝖘𝖙𝖊𝖒𝖘
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
 
-## 🌈 𝕯𝖊𝖈𝖔𝖗𝖆𝖙𝖎𝖔𝖓𝖘
-
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
-
-<img src="https://i.imgur.com/7QY7B3a.png" width="200" alt="Anime 1">
-<img src="https://i.imgur.com/9HqZk2v.gif" width="200" alt="Anime 2">
-<img src="https://i.imgur.com/XAxylRM.png" width="200" alt="Anime 3">
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]
 
 </div>
 
@@ -54,30 +50,38 @@
 
 ## 📊 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLIM-TECH&show_icons=true&theme=radical&hide_border=true)](https://github.com/SLIM-TECH)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLIM-TECH&layout=compact&theme=radical&hide_border=true)](https://github.com/SLIM-TECH)
-
-</div>
-
 <div align="center">
-  <img src="https://i.imgur.com/VbnUQpn.gif" width="300" alt="Coding anime">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLIM-TECH&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9&icon_color=ff79c6)](https://github.com/SLIM-TECH)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLIM-TECH&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9)](https://github.com/SLIM-TECH)
+
 </div>
 
 ---
 
 ## 📫 𝕳𝖔𝖜 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖒𝖊
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
 
-[![Email](https://img.shields.io/badge/-ciber4018@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ciber4018@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@CIBERSSH-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/CIBERSSH)
-[![GitHub](https://img.shields.io/badge/-SLIM--TECH-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SLIM-TECH)
+<img src="https://i.imgur.com/5z8vW9x.png" width="300" alt="Contact me">
 
 </div>
 
+- ✉️ **Email:** ciber4018@gmail.com  
+- 💬 **Telegram:** [@CIBERSSH](https://t.me/CIBERSSH)  
+- 🐱 **GitHub:** [SLIM-TECH](https://github.com/SLIM-TECH)  
+- 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
+
+---
+
 <div align="center">
-  <img src="https://i.imgur.com/3QZg7cG.gif" width="250" alt="Goodbye anime">
+
+<img src="https://i.imgur.com/7QY7B3a.png" width="400" alt="Dev meme">
+
+</div>
+
+> "𝙲𝚘𝚍𝚒𝚗𝚐 𝚒𝚜 𝚊𝚗 𝚊𝚛𝚝 𝚊𝚗𝚍 𝚖𝚢 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍 𝚒𝚜 𝚖𝚢 𝚙𝚊𝚒𝚗𝚝𝚋𝚛𝚞𝚜𝚑"  
+> - 𝙰𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+
 </div>
