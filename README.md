@@ -1,26 +1,22 @@
-<h1 align="center">
-🌸 CIBERSSH's TECH STACK
-</h1>
+<h1 align="center">🌸 CIBERSSH PROFILE</h1>
 
-<h3 align="center">
-💻 Fullstack Developer | 🛡 Cybersecurity Enthusiast | ☕ Java Pro
-</h3>
+<h3 align="center">💻 Fullstack Dev | 🛡 Cybersecurity Enthusiast | ☕ Java & ASM Pro</h3>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marlen+(CIBERSSH)!;I+can+code+in+Java%2C+Python%2C+C%2B%2B%2C+Rust+and+more...;Cybersecurity+is+my+passion!;Welcome+to+my+world.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=FF61A6&center=true&vCenter=true&width=700&lines=Hello!+I'm+Marlen+aka+CIBERSSH!;I+code+in+Java%2C+Python%2C+ASM%2C+Rust%2C+C%2B%2B...;Hacker+by+passion%2C+Dev+by+choice.;Welcome+to+my+anime+tech+world!)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://i.pinimg.com/originals/65/f3/1d/65f31d0c08ae697de032a6861b959c4b.gif" width="270" alt="anime hacker girl">
+<img src="https://media.tenor.com/aW9H7qvWy10AAAAC/anime-hacker.gif" width="280" alt="Anime girl hacking">
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-### 🔤 Languages
+### 🧠 Languages
 
 <div align="center">
 
@@ -30,10 +26,11 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ASM](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnuassembly&logoColor=white)
 
 </div>
 
-### 🌐 Web / Fullstack
+### 🌐 Web & Fullstack
 
 <div align="center">
 
@@ -43,17 +40,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
-
-### ⚙️ DevOps / OS
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -74,23 +60,32 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/5z8vW9x.png" width="300" alt="Contact image">
+<table>
+<tr>
+  <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/><br>Email</td>
+  <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/><br>Telegram</td>
+  <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/><br>GitHub</td>
+  <td align="center"><img src="https://i.imgur.com/42c05ece-185e-4521-84c6-6e68fe28a572.png" width="40"/><br>Style</td>
+</tr>
+<tr>
+  <td align="center"><sub>ciber4018@gmail.com</sub></td>
+  <td align="center"><sub><a href="https://t.me/CIBERSSH">@CIBERSSH</a></sub></td>
+  <td align="center"><sub><a href="https://github.com/SLIM-TECH">SLIM-TECH</a></sub></td>
+  <td align="center"><sub>Anime / Hacker</sub></td>
+</tr>
+</table>
 
 </div>
 
-- 📧 **Email:** ciber4018@gmail.com  
-- 💬 **Telegram:** [@CIBERSSH](https://t.me/CIBERSSH)  
-- 🐙 **GitHub:** [SLIM-TECH](https://github.com/SLIM-TECH)
-
 ---
 
-## 🧠 Quote of the Day
+## 😎 Final Vibe
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/4f/0a/d4/4f0ad4b8fc4f0e32eb30c3e5a62a0aa7.gif" width="200"><br>
+<img src="https://media.tenor.com/5nN1MvFVu8gAAAAC/anime-girl-coding.gif" width="300"><br>
 
-> "Coding is an art and my keyboard is my paintbrush."  
-> — 𝘈 𝘊𝘺𝘣𝘦𝘳 𝘚𝘢𝘮𝘶𝘳𝘢𝘪
+> 💬 “I don’t just code. I create worlds from the terminal.”  
+> – 🧠 *Cyber Samurai Marlen*
 
 </div>
