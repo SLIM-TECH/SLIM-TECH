@@ -1,84 +1,61 @@
-# 💻 CIBERSSH - SLIM-TECH
-### 🛠️ System Programmer | Fullstack | DevOps | Cybersecurity
+# 💻 Tech Stack
 
+## 🛠️ Languages & Tools
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+
+<!-- Анимированная тяночка -->
+<div>
+  <img src="https://raw.githubusercontent.com/SLIM-TECH/SLIM-TECH/main/images/anime-coding.gif" width="120" height="120" alt="Anime girl coding"/>
+</div>
+
+<!-- Иконки языков -->
+<div style="display: flex; gap: 20px; align-items: center;">
+
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animate=spin)]
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&animate=bounce)]
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animate=pulse)]
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&animate=glow)]
+
+</div>
+
+</div>
+
+<!-- Анимированные SVG иконки -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7E3ACE&width=500&lines=Low-level+magician;Kernel+hacker;Anime+enthusiast;Cybersecurity+researcher)](https://git.io/typing-svg)
+<svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Анимация для C++ -->
+  <g transform="translate(50, 50)">
+    <circle cx="0" cy="0" r="30" fill="#00599C">
+      <animate attributeName="r" values="30;35;30" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-size="14">C++</text>
+  </g>
+  
+  <!-- Анимация для C -->
+  <g transform="translate(150, 50)">
+    <circle cx="0" cy="0" r="30" fill="#A8B9CC">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="5" text-anchor="middle" fill="black" font-size="14">C</text>
+  </g>
+  
+  <!-- Анимация для Python -->
+  <g transform="translate(250, 50)">
+    <rect x="-30" y="-30" width="60" height="60" fill="#3776AB">
+      <animate attributeName="width" values="60;70;60" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-size="14">Python</text>
+  </g>
+  
+  <!-- Анимация для Rust -->
+  <g transform="translate(350, 50)">
+    <polygon points="-30,-30 30,-30 30,30 -30,30" fill="#000000">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="90 0 0" dur="4s" repeatCount="indefinite"/>
+    </polygon>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-size="14">Rust</text>
+  </g>
+</svg>
 
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🔧 Languages
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-    <p>C++</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-    <p>C</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-    <p>Python</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"/>
-    <p>Rust</p>
-  </div>
-</div>
-
-### 🌐 Fullstack
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-    <p>Node.js</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-    <p>React</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-    <p>TypeScript</p>
-  </div>
-</div>
-
-### 🐧 DevOps & Security
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-    <p>Docker</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-    <p>Linux</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
-    <p>Bash</p>
-  </div>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SLIM-TECH&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLIM-TECH&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 📫 Contact Me
-
-- ✉️ Email: ciber4018@gmail.com
-- 💬 Telegram: [@CIBERSSH](https://t.me/CIBERSSH)
-- 🐱 GitHub: [SLIM-TECH](https://github.com/SLIM-TECH)
