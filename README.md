@@ -43,9 +43,8 @@
 ---
 
 ### 📫 Как связаться со мной  
-- ✉️ **Email:** your.email@example.com  
-- 💬 **Telegram:** [@yourusername](https://t.me/yourusername)  
-- 🌍 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+- ✉️ **Email:** ciber4018@gmail.com  
+- 💬 **Telegram:** [@CIBERSSH](https://t.me/CIBERSSH)   
 
 ---
 
