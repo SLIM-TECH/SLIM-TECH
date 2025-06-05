@@ -18,16 +18,21 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnuassembly&logoColor=white"/>
-<img src="https://raw.githubusercontent.com/SLIM-TECH/SLIM-TECH/main/e1c9d876-ec18-4868-a2bd-dd0e6f360130.png" width="80" height="28" title="My Style"/>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50"/><br><sub><b>Rust</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br><sub><b>C</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br><sub><b>C++</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/><br><sub><b>C#</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br><sub><b>Java</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Assembly_logo.svg" width="50"/><br><sub><b>ASM</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SLIM-TECH/SLIM-TECH/main/e1c9d876-ec18-4868-a2bd-dd0e6f360130.png" width="50"/><br><sub><b>MyStyle</b></sub></td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
