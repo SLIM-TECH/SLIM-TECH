@@ -29,3 +29,17 @@ specialization:
   
 currently_learning: Always Something New
 fun_fact: "I speak to computers better than humans 🤖"
+
+<br clear="both">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Arsenal
+<div align="center">
+⚙️ Systems & Low-Level
+<p> <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,rust,python&theme=dark" /></a> </p>
+📱 Mobile Development
+<p> <a href="#"><img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,androidstudio&theme=dark" /></a> </p>
+🌐 Frontend
+<p> <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" /></a> </p>
+🔧 Backend & Database
+<p> <a href="#"><img src="https://skillicons.dev/icons?i=java,nodejs,postgres,mongodb,redis,supabase&theme=dark" /></a> </p>
+☁️ DevOps & Cloud
+<p> <a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,windows,git,github&theme=dark" /></a> </p></div>
