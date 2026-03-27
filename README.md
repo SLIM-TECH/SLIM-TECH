@@ -1,87 +1,73 @@
-# 🌸 𝕮𝖎𝖇𝖊𝖗𝖘𝖘𝖍 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
-### ✨ 𝕱𝖚𝖑𝖑𝖘𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 | 𝕮𝖞𝖇𝖊𝖗𝖘𝖊𝖈 𝕰𝖓𝖙𝖍𝖚𝖘𝖎𝖆𝖘𝖙
+# Привет, я SLIM-TECH 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF79C6&width=500&lines=𝙲+𝚁𝚞𝚜𝚝+𝙲𝚘𝚍𝚎𝚛;𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔+𝚆𝚒𝚣𝚊𝚛𝚍;𝙻𝚒𝚗𝚞𝚡+𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝;𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌+𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚎𝚛)](https://git.io/typing-svg)
+## 🚀 Systems Programmer | Mobile Developer | Full-Stack Engineer
 
-<img src="https://i.imgur.com/3QZg7cG.gif" width="250" alt="Anime coding">
-
-</div>
+Разрабатываю от низкоуровневых систем до мобильных приложений и веб-сервисов.
 
 ---
 
-## 🛠️ 𝕿𝖊𝖈𝖍 𝕾𝖐𝖎𝖑𝖑𝖘
+### 🛠️ Технологии
 
-### 🔮 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+**Системное программирование**
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&animate=spin)]
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&animate=bounce)]
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animate=pulse)]
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&animate=glow)]
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animate=shake)]
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</div>
+**Mobile Development**
 
-### 🌐 𝕱𝖚𝖑𝖑𝖘𝖙𝖆𝖈𝖐
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]
+**Frontend**
 
-</div>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🐧 𝕯𝖊𝖛𝖔𝖕𝖘 & 𝕾𝖞𝖘𝖙𝖊𝖒𝖘
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+**Backend & Database**
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-</div>
+**DevOps & Infrastructure**
 
----
-
-## 📊 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLIM-TECH&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9&icon_color=ff79c6)](https://github.com/SLIM-TECH)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLIM-TECH&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9)](https://github.com/SLIM-TECH)
-
-</div>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📫 𝕳𝖔𝖜 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖒𝖊
+### 📊 GitHub Статистика
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SLIM-TECH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<img src="https://i.imgur.com/5z8vW9x.png" width="300" alt="Contact me">
-
-</div>
-
-- ✉️ **Email:** ciber4018@gmail.com  
-- 💬 **Telegram:** [@CIBERSSH](https://t.me/CIBERSSH)  
-- 🐱 **GitHub:** [SLIM-TECH](https://github.com/SLIM-TECH)  
-- 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLIM-TECH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="center">
+### 📫 Связаться со мной
 
-<img src="https://i.imgur.com/7QY7B3a.png" width="400" alt="Dev meme">
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-</div>
+---
 
-> "𝙲𝚘𝚍𝚒𝚗𝚐 𝚒𝚜 𝚊𝚗 𝚊𝚛𝚝 𝚊𝚗𝚍 𝚖𝚢 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍 𝚒𝚜 𝚖𝚢 𝚙𝚊𝚒𝚗𝚝𝚋𝚛𝚞𝚜𝚑"  
-> - 𝙰𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SLIM-TECH&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
