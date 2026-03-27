@@ -113,36 +113,6 @@ fun_fact: "I speak to computers better than humans 🤖"
 
 </div>
 
-🤝 Connect With Me
-
-<div align="center"> 
-
-<a href="https://t.me/YOUR_TELEGRAM"> 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
-</a> 
-
-<a href="mailto:your@email.com"> 
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
-</a> 
-
-<a href="https://discord.com/users/YOUR_ID"> 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
-</a> 
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"> 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a> 
-
-</div>
-
-☕ Support My Work
-
-<div align="center"> 
-<a href="https://www.buymeacoffee.com/YOUR_NAME"> 
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> 
-</a> 
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 <div align="center"> 
