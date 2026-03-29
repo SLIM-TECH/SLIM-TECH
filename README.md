@@ -1,8 +1,9 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+SLIM-TECH+%F0%9F%91%8B;Systems+Programmer;Mobile+Developer;Full-Stack+Engineer;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" />
 
 </div>
 
