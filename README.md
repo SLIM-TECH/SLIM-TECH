@@ -121,5 +121,5 @@ fun_fact: "I speak to computers better than humans 🤖"
 </div>
 
 <p align="center"> 
-<b>⭐ From <a href="https://github.com/SLIM-TECH">SLIM-TECH</a> with 💜</b> 
+<b> Do <a href="https://github.com/SLIM-TECH">SLIM-TECH</a> with 💜</b> 
 </p>
